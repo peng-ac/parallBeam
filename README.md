@@ -18,4 +18,4 @@
 			 
 			 
 			 
-Note:  current version is for CPU runs, the GPU version will updated!
+Note:  The current version is for CPU runs, the GPU version will be updated!
