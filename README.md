@@ -13,3 +13,9 @@
      e.g.    ./run.sh CPU offsetCT
      
              ./run.sh CPU normalCT
+			 
+			 
+			 
+			 
+			 
+Note:  current version is for CPU runs, the GPU version will updated!
