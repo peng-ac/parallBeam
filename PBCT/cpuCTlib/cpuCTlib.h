@@ -20,23 +20,6 @@
 #define Z_THRESHOLD 2.0
 #define EPS    1e-6
 
-//static const double PI = acos(-1.0);
-
-
-#ifndef MAX
-#define MAX(x, y) ((x)>=(y)?(x):(y))
-#endif
-
-#ifndef MIN
-#define MIN(x, y) ((x)<=(y)?(x):(y))
-#endif
-
-#define IMG_Header_Size 64
-#define LEN    2048
-#define KERNEL_SIZE 3
-#define Z_THRESHOLD 2.0
-#define EPS    1e-6
-
 static const double PI = acos(-1.0);
 
 typedef long long           int64;
