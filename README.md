@@ -19,4 +19,8 @@
 			 
 			 
 			 
-Note:  The current version is for CPU runs, the GPU version will be updated!
+Note:  
+
+	The bash command can be run on Windows with Cygwin Terminal (https://www.cygwin.com/)
+ 
+	The current version is for CPU runs, the GPU version will be updated!
