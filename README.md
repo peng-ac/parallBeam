@@ -1,4 +1,4 @@
-# This project is used for parall-beam ct image reconstruction with FPB algorithm
+# This project focuses on parallel-beam CT image reconstruction using the Filtered Back Projection (FBP) algorithm.
 
 ## 1, How to open Project:  the project is created with Visual Studio 2022
 
