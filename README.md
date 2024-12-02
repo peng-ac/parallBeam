@@ -10,9 +10,9 @@
 
 ## 3, How to run example
 
-     e.g.    ./run.sh CPU offsetCT
+     e.g.    bash run.sh CPU offsetCT
      
-             ./run.sh CPU normalCT
+             bash run.sh CPU normalCT
 			 
 
 ![project illustration ](./doc/images/project.png)
