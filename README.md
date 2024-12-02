@@ -14,7 +14,8 @@
      
              ./run.sh CPU normalCT
 			 
-			 
+
+![project illustration ](./doc/images/project.png)
 			 
 			 
 			 
