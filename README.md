@@ -19,7 +19,7 @@
 			 
 			 
 			 
-Note:  
+## Note:  
 
 	The bash command can be run on Windows with Cygwin Terminal (https://www.cygwin.com/)
  
